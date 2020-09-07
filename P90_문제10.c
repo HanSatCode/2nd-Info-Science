@@ -18,3 +18,4 @@ int main() {
 		printf("%s\n", cross[i]);
 	}
 }
+.
